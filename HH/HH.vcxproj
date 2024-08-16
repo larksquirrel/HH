@@ -23,7 +23,7 @@
     <None Include="game.html" />
     <None Include="game1.html" />
     <None Include="login.css" />
-    <None Include="login.html" />
+    <None Include="index.html" />
     <None Include="game.js" />
     <None Include="login.js" />
     <None Include="mode.css" />

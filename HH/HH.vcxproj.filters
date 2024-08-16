@@ -27,7 +27,7 @@
     <None Include="game1.html">
       <Filter>源文件</Filter>
     </None>
-    <None Include="login.html">
+    <None Include="index.html">
       <Filter>源文件</Filter>
     </None>
     <None Include="login.js">
